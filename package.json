@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@shadergradient/react": "^2.4.20",
+    "three": "^0.182.0"
+  }
+}
