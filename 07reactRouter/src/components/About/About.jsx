@@ -22,7 +22,7 @@ export default function About() {
             </p>
             <p className="mt-4 text-gray-600">
               Nobis minus voluptatibus pariatur dignissimos libero quaerat iure expedita at?
-              Asperiores neo possimus nesciunt dicta veniam aspernatur quam mollitia.
+              Asperiores neo mus nesciunt dicta veniam aspernatur quam mollitia.
             </p>
           </div>
         </div>
